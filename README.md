@@ -5,4 +5,4 @@ My name is Mahmudul Haque.
 <br>
 Author- Mahmud MJ
 <br>
-I want to be a successful Full-stack WEV DEVELOPER
+I want to be a successful full-stack developer.
